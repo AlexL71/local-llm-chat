@@ -21,3 +21,4 @@ No cloud, no data leaks, no limits. Just your own setup, fully under your contro
 3. Server forwards it to DeepSeek via Ollama
 4. DeepSeek generates a reply and sends it back to your phone
  
+![Local LLM Chat Architecture](assets/diagram.png)

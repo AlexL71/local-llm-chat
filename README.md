@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/icon.png" alt="Project Icon" width="150"/>
+</p>
+
+
 # Local LLM Assistant
 
 A private, offline AI assistant that lives on your phone — powered by a local model running on your PC.  
